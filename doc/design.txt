@@ -1,1 +1,1 @@
-I think we should make it blue.
+I think we should make it blue. Instead we should actually make it light blue, with a dark blue text.
